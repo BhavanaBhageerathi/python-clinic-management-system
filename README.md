@@ -134,15 +134,15 @@ Screenshots demonstrating the application's interface and functionality will be 
 
 ### Main Menu and Login
 
-![Clinic Management System Login](screenshots/main-menu.png)
+![Clinic Management System Login](screenshots/main_menu.png)
 
 ### Receptionist Dashboard
 
-![Receptionist Dashboard](screenshots/receptionist-dashboard.png)
+![Receptionist Dashboard](screenshots/receptionist_login.png)
 
 ### Doctor Dashboard
 
-![Doctor Dashboard](screenshots/doctor-dashboard.png)
+![Doctor Dashboard](screenshots/doctor_dashboard.png)
 
 ## Future Enhancements
 
